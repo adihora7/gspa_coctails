@@ -32,7 +32,7 @@ Make sure you have the following installed:
 # Setup 
 
 #If you want to run the Code Locally: 
-- Clone the repository: `git clone https://github.com/adihora7/Pourly_Cocktails.git`
+- Clone the repository: `git clone https://github.com/adihora7/Pourly_Cocktails.git` then,
 `cd Cocktails`
 - Install dependencies:
 `npm install`
