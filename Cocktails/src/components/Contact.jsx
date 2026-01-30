@@ -1,5 +1,5 @@
-import { useGSAP } from "@gsap/react"
 import { openingHours, socials } from "../../constants/index.js"
+import { useGSAP } from "@gsap/react"
 import { SplitText } from "gsap/all"
 import gsap from 'gsap'
 
@@ -16,8 +16,8 @@ const Contact = () => {
         })
 
         timeline
-        .from(titleSplit.words, {
-            opacity: 0, yPercentage: 100, stagger: 0.02
+            .from(titleSplit.words, {
+                opacity: 0, yPercent: 100, stagger: 0.02
         })
             .from('#contact h3, #contact p', {
                 opacity: 0, yPercent: 100, stagger: 0.02
