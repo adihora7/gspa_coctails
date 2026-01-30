@@ -29,16 +29,19 @@ Make sure you have the following installed:
 - Node.js
 - npm
 
-# Setup
+# Setup 
 
-- Clone the repository:
-git clone https://github.com/adrianhajdin/gsap_cocktails.git
-cd gsap_cocktails
+#If you want to run the Code Locally: 
+- Clone the repository: git clone https://github.com/adrianhajdin/gsap_cocktails.git
+  cd gsap_cocktails
 - Install dependencies:
-npm install
+  npm install
 - Start development server:
-npm run dev
+  npm run dev
 - Visit http://localhost:5173 in your browser to view the project.
+
+#If you want to go to my Pourly Cocktails site directly:
+-https://pourly-cocktails.vercel.app/
 
 # Author: Aaditya Dihora
 - Built with modern web technologies for an engaging user experience.
